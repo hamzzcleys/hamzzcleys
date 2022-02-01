@@ -1,6 +1,8 @@
 
 <img align="center" fit="fill" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
+
 ### Support me ☎️
+
 <p align="center">
   <a href="https://instagram.com/HamzzBot"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/> 
   <a href="https://wa.me/380713139468"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
@@ -30,8 +32,6 @@
 ![Metrics](https://metrics.lecoq.io/hamzz?template=classic&repositories.forks=true&languages=1&languages.colors=github&languages.threshold=0%25&config.timezone=Asia%2FSemarang)
 
 </details>
-
-<h1 align="center">こんにちは〜 <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="40px" alt="hi"><br>hamzzcleys here!</h1>
 
 :page_with_curl: I'm currently learning:
 - PHP
