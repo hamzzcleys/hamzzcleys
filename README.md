@@ -5,7 +5,7 @@
 
 ------
 
-### Support me ☎️
+### ```Support me``` ☎️
 
 <p align="center">
   <a href="https://instagram.com/HamzzBot"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/> 
