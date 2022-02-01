@@ -7,7 +7,7 @@
   <a href="https://youtube.com/channel/UCEmSavUA7R_hL-hmH7gEqJg"><img src="https://img.shields.io/badge/YouTube-Hamz-Bot-ff0000?style=for-the-badge&logo=youtube&logoColor= /><br>
   <a name=Hamz-Bot&label=VIEWS&style=flat-square&color=orange" />
   <a href="https://github.com/hamzzcleys"><img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github" /> 
-  <a href="https://youtube.com/channel/UCEmSavUA7R_hL-hmH7gEqJg"><img src="https://img.shields.io/youtube/channel/subscribers/UCEmSavUA7R_hL-hmH7gEqJg?style=social" /> <br>
+  <a href=""><img src="https://img.shields.io/youtube/channel/subscribers/UCEmSavUA7R_hL-hmH7gEqJg?style=social" /> <br>
   <a href="https://komarev.com/ghpvc/?username=hamzz&color=blue&style=flat-square&label=Profile+Views"><img title="Watching" src="https://komarev.com/ghpvc/?username=inirey&color=blue&style=flat-square&label=Profile+View"></a>
 </p>
 
