@@ -1,4 +1,5 @@
 
+<img align="center" fit="fill" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
 ### Support me ☎️
 <p align="center">
   <a href="https://instagram.com/HamzzBot"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/> 
@@ -36,10 +37,6 @@
 - PHP
 - Phyton
 - Javascript
-
------
-
-<img align="center" fit="fill" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
 
 ------
 
