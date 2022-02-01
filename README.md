@@ -4,7 +4,7 @@
   <a href="https://instagram.com/HamzzBot"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/> 
   <a href="https://wa.me/380713139468"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   <a href="https://www.facebook.com/moksi.ground"><img src="https://img.shields.io/badge/Facebook-%234267B2.svg?&style=for-the-badge&logo=facebook&logoColor=white" />
-  <a href="https://youtube.com/channel/UCEmSavUA7R_hL-hmH7gEqJg"><img src="https://img.shields.io/badge/YouTube-Hamz-Bot-ff0000?style=for-the-badge&logo=youtube&logoColor=ff0000&link=https://youtube.com/channel/UCEmSavUA7R_hL-hmH7gEqJg" /><br>
+  <a href="https://youtube.com/channel/UCEmSavUA7R_hL-hmH7gEqJg"><img src="https://img.shields.io/badge/YouTube-Hamz-Bot-ff0000?style=for-the-badge&logo=youtube&logoColor= /><br>
   <a name=Hamz-Bot&label=VIEWS&style=flat-square&color=orange" />
   <a href="https://github.com/hamzzcleys"><img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github" /> 
   <a href="https://youtube.com/channel/UCEmSavUA7R_hL-hmH7gEqJg"><img src="https://img.shields.io/youtube/channel/subscribers/UCEmSavUA7R_hL-hmH7gEqJg?style=social" /> <br>
