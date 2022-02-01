@@ -28,14 +28,6 @@
 
 </details>
 
-</details>
-
- <summary>&#127942 <b>GitHub Activity</b></summary><br/>
-
-![Metrics](https://metrics.lecoq.io/hamzz?template=classic&repositories.forks=true&languages=1&languages.colors=github&languages.threshold=0%25&config.timezone=Asia%2FSemarang)
-
-</details>
-
 :page_with_curl: ```I'm currently learning```
 - PHP
 - Phyton
