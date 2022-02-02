@@ -34,7 +34,7 @@
 </details>
 
 :page_with_curl: ```I'm currently learning```
-- PHP<a href="https://wa.me/380713139468"
+- ```Php```
 - ```Phyton```
 - ```Javascript```
 
