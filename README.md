@@ -34,9 +34,9 @@
 </details>
 
 :page_with_curl: ```I'm currently learning```
-- ```Javascript``` [`Click Here`](https://id.m.wikipedia.org/wiki/JavaScript)
-- ```Phyton``` [`Click Here`](https://id.m.wikipedia.org/wiki/Python_(bahasa_pemrograman))
-- ```Php``` [`Click Here`](https://id.m.wikipedia.org/wiki/PHP)
+- ```Javascript``` [`Click`](https://id.m.wikipedia.org/wiki/JavaScript)
+- ```Phyton``` [`Click`](https://id.m.wikipedia.org/wiki/Python_(bahasa_pemrograman))
+- ```Php``` [`Click`](https://id.m.wikipedia.org/wiki/PHP)
 
 ------
 
