@@ -34,9 +34,11 @@
 </details>
 
 :page_with_curl: ```I'm currently learning```
+
 <img src="https://media.giphy.com/media/4dM1U76aAQ3dbE6bc3/giphy.gif" alt="GIF" width="128" height="128"/>
 </p>
 <p align="center">
+</p>
 - ```Javascript``` [`Click`](https://id.m.wikipedia.org/wiki/JavaScript)
 - ```Phyton``` [`Click`](https://id.m.wikipedia.org/wiki/Python_(bahasa_pemrograman))
 - ```Php``` [`Click`](https://id.m.wikipedia.org/wiki/PHP)
