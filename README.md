@@ -1,7 +1,7 @@
 
 ------
 
-<img align="center" fit="fill" alt="GIF" src="https://media.tenor.com/images/b08290f0fd0591539754989abcb75c65/tenor.gif " />
+<img align="center" fit="fill" alt="GIF" src="https://media.tenor.com/images/b08290f0fd0591539754989abcb75c65/tenor.gif" />
 
 ------
 
