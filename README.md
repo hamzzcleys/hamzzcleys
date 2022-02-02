@@ -34,9 +34,9 @@
 </details>
 
 :page_with_curl: ```I'm currently learning```
-🔴PHP
-🔵Phyton
-🟡Javascript
+- PHP
+- Phyton
+- Javascript
 
 ------
 
