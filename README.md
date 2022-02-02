@@ -42,6 +42,7 @@
 - ```Javascript``` [`Click`](https://id.m.wikipedia.org/wiki/JavaScript)
 - ```Phyton``` [`Click`](https://id.m.wikipedia.org/wiki/Python_(bahasa_pemrograman))
 - ```Php``` [`Click`](https://id.m.wikipedia.org/wiki/PHP)
+- ```Html``` [`Click`](https://en-m-wikipedia-org.translate.goog/wiki/HTML?_x_tr_sl=en&_x_tr_tl=id&_x_tr_hl=id&_x_tr_pto=tc,sc)
 - ```Css``` [`Click`](https://en.m.wikipedia.org/wiki/CSS)
 
 ------
