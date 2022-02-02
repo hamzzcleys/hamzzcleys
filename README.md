@@ -34,7 +34,7 @@
 </details>
 
 :page_with_curl: ```I'm currently learning```
-- ```Php```
+- php [`click here`] (https://id.m.wikipedia.org/wiki/JavaScript)
 - ```Phyton```
 - ```Javascript```
 
